@@ -1,0 +1,1412 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Space Grotesk", sans-serif;
+}
+.desktop .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .desktop .frame-9 {
+    margin: 16.3px 0 16.4px 0;
+    display: flex;
+    flex-direction: row;
+    width: 219.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .about-us {
+    margin: 20px 40.8px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .blog {
+    margin: 20px 40.7px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .services {
+    margin: 20px 40.3px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .use-cases {
+    margin: 20px 41px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .pricing {
+    margin: 20px 40.6px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .frame-10 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .button {
+    border-radius: 14px;
+    border: 1px solid var(--dark, #191A23);
+    display: flex;
+    padding: 19px 0;
+    width: 231px;
+    box-sizing: border-box;
+  }
+  .desktop {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 60px 0 0 100px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .desktop .navigation-bar {
+    margin: 0 0 70px 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .desktop .header {
+    margin: 0 0px 70px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .navigating-the-digital-landscape-for-success {
+    margin-bottom: 105px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-11-font-family, 'Space Grotesk');
+    font-weight: var(--h-11-font-weight, 500);
+    font-size: var(--h-11-font-size, 60px);
+    color: #000000;
+  }
+  .desktop .our-digital-marketing-agency-helps-businesses-grow-and-succeed-online-through-arange-of-services-including-seo-ppc-social-media-marketing-and-content-creation {
+    position: absolute;
+    left: 50%;
+    bottom: 103px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .button-1 {
+    border-radius: 14px;
+    background: var(--dark, #191A23);
+    display: flex;
+    align-self: flex-start;
+    padding: 20px 0;
+    width: 264px;
+    box-sizing: border-box;
+  }
+  .desktop .frame-13 {
+    position: relative;
+    margin: 0 189.6px 34px 0;
+    display: flex;
+    padding-right: 25.2px;
+    box-sizing: border-box;
+  }
+  .desktop .illustration {
+    width: 600.5px;
+    height: 515px;
+  }
+  .desktop .landing-page {
+    margin: 0 100px 140px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .logotypes {
+    margin-right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .desktop .company-logo {
+    mix-blend-mode: luminosity;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 0.6px 3px 0;
+    width: 124.1px;
+    box-sizing: border-box;
+  }
+  .desktop .company-logo-1 {
+    mix-blend-mode: luminosity;
+    display: flex;
+    padding: 9.1px 0.6px 11.7px 0;
+    width: 126.4px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .desktop .company-logo-2 {
+    mix-blend-mode: luminosity;
+    width: 128.6px;
+    height: 48px;
+  }
+  .desktop .company-logo-3 {
+    mix-blend-mode: luminosity;
+    display: flex;
+    padding: 6px 0.5px 7.5px 0;
+    width: 145.6px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .desktop .company-logo-4 {
+    mix-blend-mode: luminosity;
+    display: flex;
+    padding: 10px 0 8px 0;
+    width: 125.2px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .desktop .company-logo-5 {
+    mix-blend-mode: luminosity;
+    display: flex;
+    padding: 14px 0.1px 12px 0;
+    width: 110.6px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .desktop .at-our-digital-marketing-agency-we-offer-arange-of-services-to-help-businesses-grow-and-succeed-online-these-services-include {
+    margin-bottom: 5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .heading-subheading {
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .heading {
+    margin-right: 40px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .desktop .tokyo-selecting-avalue-in-the-browser-window-1 {
+    background: url('../assets/images/tokyo_selecting_avalue_in_the_browser_window_1.png');
+    width: 210px;
+    height: 147.6px;
+  }
+  .desktop .tokyo-magnifier-web-search-with-elements-2 {
+    background: url('../assets/images/tokyo_magnifier_web_search_with_elements_2.png');
+    width: 210px;
+    height: 166px;
+  }
+  .desktop .illustration-1 {
+    margin: 71px 0 22px 0;
+    display: flex;
+    width: 210px;
+    height: 170px;
+    box-sizing: border-box;
+  }
+  .desktop .card {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid var(--dark, #191A23);
+    background: var(--grey, #F3F3F3);
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    padding: 49px;
+    box-sizing: border-box;
+  }
+  .desktop .heading-and-link {
+    margin: 49px 69px 0 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .desktop .heading-1 {
+    margin-bottom: 93px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .link {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .card-1 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid var(--dark, #191A23);
+    background: var(--green, #B9FF66);
+    display: flex;
+    flex-direction: row;
+    padding: 49px;
+    box-sizing: border-box;
+  }
+  .desktop .heading-and-link-1 {
+    margin: 49px 81px 0 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .desktop .heading-2 {
+    margin-bottom: 93px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .link-1 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .illustration-2 {
+    margin: 80.2px 0 31.2px 0;
+    display: flex;
+    width: 210px;
+    height: 147.6px;
+    box-sizing: border-box;
+  }
+  .desktop .services-block {
+    margin: 0 100px 80px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .heading-subheading-1 {
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .heading-3 {
+    margin-right: 40px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .desktop .step-by-step-guide-to-achieving-your-business-goals {
+    margin-bottom: 5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .process-block {
+    margin: 0 103px 117px 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .card-2 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--green, #B9FF66);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 56px 54px 59px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .content {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1117px;
+    box-sizing: border-box;
+  }
+  .desktop .label {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container {
+    margin-right: 25.2px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .consultation {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .desktop .plus-icon {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    padding: 26px 20px 26.4px 20px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .card-3 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--grey, #F3F3F3);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 56px 40px 59px;
+    width: 1234px;
+    box-sizing: border-box;
+  }
+  .desktop .label-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container-1 {
+    margin-right: 25.4px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .research-and-strategy-development {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .desktop .plus-icon-1 {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    display: flex;
+    padding: 16px 16.9px 16.9px 16px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .line-25 {
+    background: #000000;
+    margin: 0 3px 29px 0;
+    width: 1114px;
+    height: 0px;
+  }
+  .desktop .during-the-initial-consultation-we-will-discuss-your-business-goals-and-objectives-target-audience-and-current-marketing-efforts-this-will-allow-us-to-understand-your-needs-and-tailor-our-services-to-best-fit-your-requirements {
+    margin-right: 59.9px;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .card-4 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--grey, #F3F3F3);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 56px 40px 59px;
+    width: 1234px;
+    box-sizing: border-box;
+  }
+  .desktop .label-2 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container-2 {
+    margin-right: 26px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .implementation {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+  }
+  .desktop .plus-icon-2 {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    display: flex;
+    padding: 16px 16.9px 16.9px 16px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .card-5 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--grey, #F3F3F3);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 56px 40px 59px;
+    width: 1234px;
+    box-sizing: border-box;
+  }
+  .desktop .label-3 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container-3 {
+    margin-right: 25.5px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .monitoring-and-optimization {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .plus-icon-3 {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    display: flex;
+    padding: 16px 16.9px 16.9px 16px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .card-6 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--grey, #F3F3F3);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 56px 40px 59px;
+    width: 1234px;
+    box-sizing: border-box;
+  }
+  .desktop .label-4 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container-4 {
+    margin-right: 25.4px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .reporting-and-communication {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .plus-icon-4 {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    display: flex;
+    padding: 16px 16.9px 16.9px 16px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .card-7 {
+    box-shadow: 0px 5px 0px 0px #191A23;
+    border-radius: 45px;
+    border: 1px solid #191A23;
+    background: var(--grey, #F3F3F3);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 56px 40px 59px;
+    width: 1234px;
+    box-sizing: border-box;
+  }
+  .desktop .label-5 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .container-5 {
+    margin-right: 25.4px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+  }
+  .desktop .continual-improvement {
+    margin: 19.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #191A23;
+  }
+  .desktop .plus-icon-5 {
+    border-radius: 29px;
+    background: #F3F3F3;
+    position: relative;
+    margin: 9.5px 0;
+    display: flex;
+    padding: 16px 16.9px 16.9px 16px;
+    width: 58px;
+    height: 58px;
+    box-sizing: border-box;
+  }
+  .desktop .heading-subheading-2 {
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .heading-4 {
+    margin-right: 40px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .desktop .connect-with-us-lets-discuss-your-digital-marketing-needs {
+    margin-bottom: 5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .name {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    color: #898989;
+  }
+  .desktop .name-1 {
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #000000;
+  }
+  .desktop .radiobutton {
+    border-radius: 29px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    margin-right: 14px;
+    width: 28px;
+    height: 28px;
+  }
+  .desktop .say-hi {
+    margin: 2px 0 3px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .get-aquote {
+    margin: 2px 0 3px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #000000;
+  }
+  .desktop .ellipse-27 {
+    border-radius: 8px;
+    background: var(--green, #B9FF66);
+    width: 16px;
+    height: 16px;
+  }
+  .desktop .radiobutton-1 {
+    border-radius: 29px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 14px;
+    display: flex;
+    padding: 6px;
+    width: 28px;
+    height: 28px;
+    box-sizing: border-box;
+  }
+  .desktop .say-hi-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .get-aquote-1 {
+    border-radius: 29px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .desktop .radio-buttons {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 276px;
+    box-sizing: border-box;
+  }
+  .desktop .input {
+    border-radius: 14px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    padding: 17px 29px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .field {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .field-1 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .email {
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #000000;
+  }
+  .desktop .input-1 {
+    border-radius: 14px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    padding: 17px 29px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .email-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    color: #898989;
+  }
+  .desktop .fields {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .field-2 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .message {
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #000000;
+  }
+  .desktop .input-2 {
+    border-radius: 14px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    padding: 17px 29px 148px 29px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .message-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    color: #898989;
+  }
+  .desktop .button-2 {
+    border-radius: 14px;
+    background: var(--dark, #191A23);
+    display: flex;
+    align-self: flex-start;
+    padding: 20px 0;
+    width: 556px;
+    box-sizing: border-box;
+  }
+  .desktop .illustration-3 {
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    translate: 0 -50%;
+    width: 691.6px;
+    height: 648px;
+  }
+  .desktop .block-with-illustration {
+    border-radius: 45px;
+    background: var(--grey, #F3F3F3);
+    display: flex;
+    flex-direction: column;
+    padding: 60px 0 80px 100px;
+    box-sizing: border-box;
+  }
+  .desktop .contact-block {
+    position: relative;
+    margin-bottom: 140px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .desktop .phone-5555678901 {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #FFFFFF;
+  }
+  .desktop .address-1234-main-st-moonstone-city-stardust-state-12345 {
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #FFFFFF;
+  }
+  .desktop .email-infopositivus-com {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #FFFFFF;
+  }
+  .desktop .privacy-policy {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    line-height: 1.556;
+    color: #FFFFFF;
+  }
+  .desktop .positivus-all-rights-reserved {
+    margin-right: 14px;
+    width: 324px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.556;
+    color: #FFFFFF;
+  }
+  .desktop .about-us-1 {
+    margin-right: 11.5px;
+    width: 79px;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  .desktop .use-cases-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  .desktop .blog-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  .desktop .services-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  .desktop .pricing-1 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  .desktop .social-icon {
+    border-radius: 15px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    padding: 7.1px 7.1px 7.9px 7.9px;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+  }
+  .desktop .linkedin {
+    width: 15px;
+    height: 15px;
+  }
+  .desktop .social-icon-1 {
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+  }
+  .desktop .social-icon-2 {
+    border-radius: 15px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 7.9px 6.2px 7.8px 6.2px;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+  }
+  .desktop .twitter {
+    width: 17.6px;
+    height: 14.3px;
+  }
+  .desktop .line-17 {
+    background: #FFFFFF;
+    margin-bottom: 49px;
+    width: 1120px;
+    height: 0px;
+  }
+  .desktop .email-2 {
+    overflow-wrap: break-word;
+    font-family: var(--p-font-family, 'Space Grotesk');
+    font-weight: var(--p-font-weight, 400);
+    font-size: var(--p-font-size, 18px);
+    color: #FFFFFF;
+  }
+  .desktop .logo {
+    margin: 0.8px 0;
+    display: flex;
+    flex-direction: row;
+    width: 180px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .navigation {
+    margin: 3.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 501px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .social-icons {
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    box-sizing: border-box;
+  }
+  .desktop .elements {
+    margin: 0 0 66px 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1121px;
+    box-sizing: border-box;
+  }
+  .desktop .heading-5 {
+    margin-bottom: 27px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .desktop .info {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .contact-us {
+    margin-right: 154.3px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .desktop .field-3 {
+    border-radius: 14px;
+    border: 1px solid #FFFFFF;
+    margin: 0 20px 1px 0;
+    display: flex;
+    padding: 21px 170.2px 21px 0;
+    width: 285px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .button-3 {
+    border-radius: 14px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 20px 0;
+    width: 249px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .subscription-block {
+    border-radius: 14px;
+    background: #292A32;
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    padding: 58px 40px;
+    width: 634px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .frame-26 {
+    margin-right: 1px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 485px;
+    box-sizing: border-box;
+  }
+  .desktop .navigation-and-contacts {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop .line-and-text {
+    margin-right: 1px;
+    display: flex;
+    flex-direction: column;
+    width: 1120px;
+    box-sizing: border-box;
+  }
+  .desktop .footer {
+    border-radius: 45px 45px 0 0;
+    background: var(--dark, #191A23);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 55px 60px 50px 60px;
+    box-sizing: border-box;
+  }
+  .desktop .footer-block {
+    margin-right: 99px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .desktop .icon {
+    margin-right: 13.3px;
+    display: flex;
+    width: 36px;
+    height: 36px;
+    box-sizing: border-box;
+  }
+  .desktop .vector-35 {
+    width: 35.3px;
+    height: 35.3px;
+  }
+  .desktop .positivus {
+    margin: 2.7px 0 4px 0;
+    width: 170.6px;
+    height: 28.6px;
+  }
+  .desktop .label-6 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .desktop .label-7 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .desktop .vector-36 {
+    margin: 0 17.4px;
+    align-self: flex-start;
+    width: 65.6px;
+    height: 13.1px;
+  }
+  .desktop .vector-37 {
+    margin-bottom: 0.4px;
+    width: 123.6px;
+    height: 19.5px;
+  }
+  .desktop .vector-38 {
+    width: 125.8px;
+    height: 27.2px;
+  }
+  .desktop .vector-41 {
+    width: 145px;
+    height: 34.5px;
+  }
+  .desktop .vector-42 {
+    width: 125.2px;
+    height: 30px;
+  }
+  .desktop .vector-43 {
+    width: 110.5px;
+    height: 22px;
+  }
+  .desktop .label-8 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 0 7.7px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-9 {
+    overflow-wrap: break-word;
+    font-family: var(--h-2-font-family, 'Space Grotesk');
+    font-weight: var(--h-2-font-weight, 500);
+    font-size: var(--h-2-font-size, 40px);
+    color: #000000;
+  }
+  .desktop .label-10 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 0 7.2px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-11 {
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .label-12 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    align-self: flex-start;
+    padding: 0 8px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-13 {
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .icon-1 {
+    border-radius: 20.5px;
+    background: #191A23;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 16px 11.7px 15px 12px;
+    width: 41px;
+    height: 41px;
+    box-sizing: border-box;
+  }
+  .desktop .arrow-1 {
+    transform: rotate(-30deg);
+    width: 20px;
+    height: 0px;
+  }
+  .desktop .label-14 {
+    margin: 6.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: var(--black, #000000);
+  }
+  .desktop .label-15 {
+    border-radius: 7px;
+    background: #FFFFFF;
+    display: flex;
+    padding: 0 7.1px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-16 {
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .label-17 {
+    border-radius: 7px;
+    background: #FFFFFF;
+    display: flex;
+    align-self: flex-start;
+    padding: 0 7.4px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-18 {
+    overflow-wrap: break-word;
+    font-family: var(--h-3-font-family, 'Space Grotesk');
+    font-weight: var(--h-3-font-weight, 500);
+    font-size: var(--h-3-font-size, 30px);
+    color: #000000;
+  }
+  .desktop .icon-2 {
+    border-radius: 20.5px;
+    background: #191A23;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 16px 11.7px 15px 12px;
+    width: 41px;
+    height: 41px;
+    box-sizing: border-box;
+  }
+  .desktop .arrow-11 {
+    transform: rotate(-30deg);
+    width: 20px;
+    height: 0px;
+  }
+  .desktop .label-19 {
+    margin: 6.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: var(--black, #000000);
+  }
+  .desktop .label-20 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 0 7.8px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-21 {
+    overflow-wrap: break-word;
+    font-family: var(--h-2-font-family, 'Space Grotesk');
+    font-weight: var(--h-2-font-weight, 500);
+    font-size: var(--h-2-font-size, 40px);
+    color: #000000;
+  }
+  .desktop .container-6 {
+    background: #000000;
+    width: 17.8px;
+    height: 5.6px;
+  }
+  .desktop .container-7 {
+    width: 25.1px;
+    height: 25.1px;
+  }
+  .desktop .container-8 {
+    width: 25.1px;
+    height: 25.1px;
+  }
+  .desktop .container-9 {
+    width: 25.1px;
+    height: 25.1px;
+  }
+  .desktop .container-10 {
+    width: 25.1px;
+    height: 25.1px;
+  }
+  .desktop .container-11 {
+    width: 25.1px;
+    height: 25.1px;
+  }
+  .desktop .label-22 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 0 7.5px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-23 {
+    overflow-wrap: break-word;
+    font-family: var(--h-2-font-family, 'Space Grotesk');
+    font-weight: var(--h-2-font-weight, 500);
+    font-size: var(--h-2-font-size, 40px);
+    color: #000000;
+  }
+  .desktop .label-24 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .desktop .icon-3 {
+    margin-right: 10.9px;
+    display: flex;
+    width: 29.5px;
+    height: 29px;
+    box-sizing: border-box;
+  }
+  .desktop .vector-44 {
+    width: 28.9px;
+    height: 28.4px;
+  }
+  .desktop .positivus-1 {
+    margin: 2.1px 0 3.3px 0;
+    width: 139.9px;
+    height: 23px;
+  }
+  .desktop .label-25 {
+    border-radius: 7px;
+    background: var(--green, #B9FF66);
+    display: flex;
+    padding: 0 7.3px 0 7px;
+    box-sizing: border-box;
+  }
+  .desktop .label-26 {
+    overflow-wrap: break-word;
+    font-family: var(--h-4-font-family, 'Space Grotesk');
+    font-weight: var(--h-4-font-weight, 500);
+    font-size: var(--h-4-font-size, 20px);
+    color: #000000;
+  }
+  .desktop .label-27 {
+    overflow-wrap: break-word;
+    font-family: 'Space Grotesk';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: var(--black, #000000);
+  }
